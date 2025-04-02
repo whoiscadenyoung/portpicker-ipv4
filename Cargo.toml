@@ -1,6 +1,6 @@
 [package]
 name = "portpicker-ipv4"
-description = "Pick a free unused IPV4 port"
+description = "Pick a free unused IPV4 port -- forked from portpicker"
 version = "0.1.1"
 authors = ["Caden Young <whoiscadenyoung@gmail.com>", "Hannes Karppila <hannes.karppila@gmail.com>"]
 edition = "2018"
