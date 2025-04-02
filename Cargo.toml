@@ -1,11 +1,11 @@
 [package]
-name = "portpicker"
-description = "Pick a free unused port"
+name = "portpicker-ipv4"
+description = "Pick a free unused IPV4 port"
 version = "0.1.1"
-authors = ["Hannes Karppila <hannes.karppila@gmail.com>"]
+authors = ["Caden Young <whoiscadenyoung@gmail.com>", "Hannes Karppila <hannes.karppila@gmail.com>"]
 edition = "2018"
 
-repository = "https://github.com/Dentosal/portpicker-rs"
+repository = "https://github.com/whoiscadenyoung/portpicker-ipv4"
 readme = "README.md"
 
 keywords = ["port", "network"]
